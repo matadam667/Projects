@@ -1,0 +1,138 @@
+Tue Aug 11 18:15:18 2020 Gra w trybie Gracz na Komputer zostala rozpoczeta.
+Tue Aug 11 18:15:25 2020 Gracz miedzy y=4 a y=7 ustawil statek na szerokosci x= 2.
+Tue Aug 11 18:15:37 2020 Gracz miedzy x=9 a x=8 ustawil statek na wysokosci y= 9.
+Tue Aug 11 18:15:47 2020 Gracz miedzy x=5 a x=6 ustawil statek na wysokosci y= 2.
+Tue Aug 11 18:15:53 2020 Gracz miedzy x=1 a x=1 ustawil statek na wysokosci y= 10.
+Tue Aug 11 18:15:59 2020 Gracz miedzy x=9 a x=9 ustawil statek na wysokosci y= 6.
+Tue Aug 11 18:16:31 2020 Gracz miedzy x=5 a x=5 ustawil statek na wysokosci y= 9.
+Tue Aug 11 18:17:05 2020 Gracz miedzy x=4 a x=6 ustawil statek na wysokosci y= 4.
+Tue Aug 11 18:17:13 2020 Gracz miedzy y=1 a y=3 ustawil statek na szerokosci x= 10.
+Tue Aug 11 18:17:18 2020 Gracz miedzy x=5 a x=5 ustawil statek na wysokosci y= 7.
+Tue Aug 11 18:17:21 2020 Gracz miedzy x=2 a x=3 ustawil statek na wysokosci y= 2.
+Tue Aug 11 18:17:24 2020 Komputer miedzy x=8 a x=5 ustawil statek na wysokosci y= 3.
+Tue Aug 11 18:17:24 2020 Komputer miedzy x=3 a x=1 ustawil statek na wysokosci y= 9.
+Tue Aug 11 18:17:24 2020 Komputer miedzy x=9 a x=7 ustawil statek na wysokosci y= 7.
+Tue Aug 11 18:17:24 2020 Komputer miedzy y=9 a y=10 ustawil statek na szerokosci x= 8.
+Tue Aug 11 18:17:24 2020 Komputer miedzy x=10 a x=9 ustawil statek na wysokosci y= 5.
+Tue Aug 11 18:17:24 2020 Komputer miedzy y=7 a y=8 ustawil statek na szerokosci x= 5.
+Tue Aug 11 18:17:24 2020 Komputer miedzy x=8 a x=8 ustawil statek na wysokosci y= 1.
+Tue Aug 11 18:17:24 2020 Komputer miedzy x=3 a x=3 ustawil statek na wysokosci y= 3.
+Tue Aug 11 18:17:24 2020 Komputer miedzy x=4 a x=4 ustawil statek na wysokosci y= 1.
+Tue Aug 11 18:17:24 2020 Komputer miedzy x=2 a x=2 ustawil statek na wysokosci y= 7.
+Tue Aug 11 18:17:28 2020 Gracz spudlowal strzelajac w pole x= 4 y= 4.
+Tue Aug 11 18:17:34 2020 Komputer spudlowal strzelajac w pole x= 7 y= 1.
+Tue Aug 11 18:17:51 2020 Gracz spudlowal strzelajac w pole x= 9 y= 8.
+Tue Aug 11 18:17:57 2020 Komputer spudlowal strzelajac w pole x= 2 y= 1.
+Tue Aug 11 18:18:04 2020 Gracz spudlowal strzelajac w pole x= 2 y= 6.
+Tue Aug 11 18:18:10 2020 Komputer spudlowal strzelajac w pole x= 4 y= 8.
+Tue Aug 11 18:18:18 2020 Gracz spudlowal strzelajac w pole x= 2 y= 2.
+Tue Aug 11 18:18:24 2020 Komputer spudlowal strzelajac w pole x= 10 y= 5.
+Tue Aug 11 18:18:34 2020 Gracz spudlowal strzelajac w pole x= 6 y= 7.
+Tue Aug 11 18:18:40 2020 Komputer spudlowal strzelajac w pole x= 2 y= 10.
+Tue Aug 11 18:18:58 2020 Gracz trafil w statek na polu x= 8 y= 7.
+Tue Aug 11 18:19:06 2020 Gracz spudlowal strzelajac w pole x= 8 y= 6.
+Tue Aug 11 18:19:12 2020 Komputer spudlowal strzelajac w pole x= 6 y= 8.
+Tue Aug 11 18:19:18 2020 Gracz spudlowal strzelajac w pole x= 8 y= 8.
+Tue Aug 11 18:19:25 2020 Komputer spudlowal strzelajac w pole x= 9 y= 8.
+Tue Aug 11 18:19:41 2020 Gracz trafil w statek na polu x= 7 y= 7.
+Tue Aug 11 18:19:45 2020 Gracz trafil w statek na polu x= 9 y= 7 - statek zatopiony.
+Tue Aug 11 18:19:57 2020 Gracz trafil w statek na polu x= 7 y= 3.
+Tue Aug 11 18:20:02 2020 Gracz trafil w statek na polu x= 8 y= 3.
+Tue Aug 11 18:20:06 2020 Gracz spudlowal strzelajac w pole x= 9 y= 3.
+Tue Aug 11 18:20:12 2020 Komputer spudlowal strzelajac w pole x= 3 y= 3.
+Tue Aug 11 18:20:19 2020 Gracz trafil w statek na polu x= 6 y= 3.
+Tue Aug 11 18:20:23 2020 Gracz trafil w statek na polu x= 5 y= 3 - statek zatopiony.
+Tue Aug 11 18:20:33 2020 Gracz trafil w statek na polu x= 2 y= 9.
+Tue Aug 11 18:20:39 2020 Gracz spudlowal strzelajac w pole x= 2 y= 8.
+Tue Aug 11 18:20:45 2020 Komputer spudlowal strzelajac w pole x= 1 y= 3.
+Tue Aug 11 18:20:55 2020 Gracz trafil w statek na polu x= 3 y= 9.
+Tue Aug 11 18:21:00 2020 Gracz spudlowal strzelajac w pole x= 4 y= 9.
+Tue Aug 11 18:21:06 2020 Komputer spudlowal strzelajac w pole x= 9 y= 3.
+Tue Aug 11 18:21:12 2020 Gracz trafil w statek na polu x= 1 y= 9 - statek zatopiony.
+Tue Aug 11 18:21:28 2020 Gracz spudlowal strzelajac w pole x= 2 y= 5.
+Tue Aug 11 18:21:34 2020 Komputer spudlowal strzelajac w pole x= 1 y= 7.
+Tue Aug 11 18:21:43 2020 Gracz spudlowal strzelajac w pole x= 4 y= 5.
+Tue Aug 11 18:21:49 2020 Komputer trafil w statek na polu x= 10 y= 3.
+Tue Aug 11 18:21:55 2020 Komputer trafil w statek na polu x= 10 y= 2.
+Tue Aug 11 18:22:01 2020 Komputer trafil w statek na polu x= 10 y= 1 - statek zatopiony.
+Tue Aug 11 18:22:07 2020 Komputer spudlowal strzelajac w pole x= 8 y= 6.
+Tue Aug 11 18:22:15 2020 Gracz trafil w statek na polu x= 3 y= 3 - statek zatopiony.
+Tue Aug 11 18:22:22 2020 Gracz spudlowal strzelajac w pole x= 7 y= 10.
+Tue Aug 11 18:22:28 2020 Komputer spudlowal strzelajac w pole x= 7 y= 7.
+Tue Aug 11 18:22:37 2020 Gracz trafil w statek na polu x= 10 y= 5.
+Tue Aug 11 18:23:22 2020 Gracz spudlowal strzelajac w pole x= 10 y= 4.
+Tue Aug 11 18:23:28 2020 Komputer spudlowal strzelajac w pole x= 3 y= 9.
+Tue Aug 11 18:23:34 2020 Gracz trafil w statek na polu x= 9 y= 5 - statek zatopiony.
+Tue Aug 11 18:23:41 2020 Gracz spudlowal strzelajac w pole x= 5 y= 5.
+Tue Aug 11 18:23:48 2020 Komputer spudlowal strzelajac w pole x= 8 y= 1.
+Tue Aug 11 18:23:55 2020 Gracz spudlowal strzelajac w pole x= 5 y= 6.
+Tue Aug 11 18:24:01 2020 Komputer spudlowal strzelajac w pole x= 1 y= 8.
+Tue Aug 11 18:24:07 2020 Gracz spudlowal strzelajac w pole x= 10 y= 1.
+Tue Aug 11 18:24:13 2020 Komputer spudlowal strzelajac w pole x= 10 y= 7.
+Tue Aug 11 18:24:25 2020 Gracz spudlowal strzelajac w pole x= 10 y= 10.
+Tue Aug 11 18:24:34 2020 Komputer spudlowal strzelajac w pole x= 8 y= 8.
+Tue Aug 11 18:24:44 2020 Gracz spudlowal strzelajac w pole x= 1 y= 1.
+Tue Aug 11 18:24:50 2020 Komputer spudlowal strzelajac w pole x= 1 y= 2.
+Tue Aug 11 18:25:05 2020 Gracz spudlowal strzelajac w pole x= 6 y= 9.
+Tue Aug 11 18:25:11 2020 Komputer spudlowal strzelajac w pole x= 6 y= 6.
+Tue Aug 11 18:25:21 2020 Gracz spudlowal strzelajac w pole x= 6 y= 5.
+Tue Aug 11 18:25:27 2020 Komputer spudlowal strzelajac w pole x= 1 y= 9.
+Tue Aug 11 18:25:34 2020 Gracz spudlowal strzelajac w pole x= 3 y= 7.
+Tue Aug 11 18:25:40 2020 Komputer spudlowal strzelajac w pole x= 4 y= 7.
+Tue Aug 11 18:25:49 2020 Gracz spudlowal strzelajac w pole x= 7 y= 5.
+Tue Aug 11 18:25:55 2020 Komputer spudlowal strzelajac w pole x= 7 y= 5.
+Tue Aug 11 18:26:07 2020 Gracz trafil w statek na polu x= 5 y= 8.
+Tue Aug 11 18:26:12 2020 Gracz spudlowal strzelajac w pole x= 5 y= 9.
+Tue Aug 11 18:26:18 2020 Komputer spudlowal strzelajac w pole x= 8 y= 10.
+Tue Aug 11 18:26:26 2020 Gracz trafil w statek na polu x= 5 y= 7 - statek zatopiony.
+Tue Aug 11 18:26:34 2020 Gracz spudlowal strzelajac w pole x= 1 y= 3.
+Tue Aug 11 18:26:40 2020 Komputer spudlowal strzelajac w pole x= 10 y= 9.
+Tue Aug 11 18:26:53 2020 Gracz spudlowal strzelajac w pole x= 3 y= 1.
+Tue Aug 11 18:26:59 2020 Komputer spudlowal strzelajac w pole x= 2 y= 3.
+Tue Aug 11 18:27:13 2020 Gracz spudlowal strzelajac w pole x= 10 y= 2.
+Tue Aug 11 18:27:19 2020 Komputer spudlowal strzelajac w pole x= 7 y= 3.
+Tue Aug 11 18:27:25 2020 Gracz spudlowal strzelajac w pole x= 1 y= 4.
+Tue Aug 11 18:27:32 2020 Komputer trafil w statek na polu x= 8 y= 9.
+Tue Aug 11 18:27:38 2020 Komputer trafil w statek na polu x= 9 y= 9 - statek zatopiony.
+Tue Aug 11 18:27:44 2020 Komputer trafil w statek na polu x= 2 y= 6.
+Tue Aug 11 18:27:50 2020 Komputer spudlowal strzelajac w pole x= 1 y= 6.
+Tue Aug 11 18:28:01 2020 Gracz spudlowal strzelajac w pole x= 1 y= 7.
+Tue Aug 11 18:28:07 2020 Komputer trafil w statek na polu x= 2 y= 7.
+Tue Aug 11 18:28:13 2020 Komputer spudlowal strzelajac w pole x= 2 y= 8.
+Tue Aug 11 18:28:30 2020 Gracz spudlowal strzelajac w pole x= 9 y= 9.
+Tue Aug 11 18:28:36 2020 Komputer trafil w statek na polu x= 2 y= 5.
+Tue Aug 11 18:28:42 2020 Komputer trafil w statek na polu x= 2 y= 4 - statek zatopiony.
+Tue Aug 11 18:28:48 2020 Komputer spudlowal strzelajac w pole x= 1 y= 1.
+Tue Aug 11 18:28:56 2020 Gracz spudlowal strzelajac w pole x= 10 y= 3.
+Tue Aug 11 18:29:02 2020 Komputer spudlowal strzelajac w pole x= 6 y= 5.
+Tue Aug 11 18:29:07 2020 Gracz trafil w statek na polu x= 2 y= 7 - statek zatopiony.
+Tue Aug 11 18:29:12 2020 Gracz spudlowal strzelajac w pole x= 3 y= 5.
+Tue Aug 11 18:29:18 2020 Komputer spudlowal strzelajac w pole x= 6 y= 1.
+Tue Aug 11 18:29:24 2020 Gracz spudlowal strzelajac w pole x= 7 y= 9.
+Tue Aug 11 18:29:30 2020 Komputer spudlowal strzelajac w pole x= 5 y= 10.
+Tue Aug 11 18:29:36 2020 Gracz trafil w statek na polu x= 8 y= 10.
+Tue Aug 11 18:29:41 2020 Gracz spudlowal strzelajac w pole x= 9 y= 10.
+Tue Aug 11 18:29:48 2020 Komputer spudlowal strzelajac w pole x= 4 y= 3.
+Tue Aug 11 18:30:00 2020 Gracz trafil w statek na polu x= 8 y= 9 - statek zatopiony.
+Tue Aug 11 18:30:07 2020 Gracz spudlowal strzelajac w pole x= 10 y= 9.
+Tue Aug 11 18:30:13 2020 Komputer spudlowal strzelajac w pole x= 5 y= 8.
+Tue Aug 11 18:30:22 2020 Gracz spudlowal strzelajac w pole x= 5 y= 10.
+Tue Aug 11 18:30:28 2020 Komputer spudlowal strzelajac w pole x= 4 y= 6.
+Tue Aug 11 18:30:33 2020 Gracz spudlowal strzelajac w pole x= 6 y= 10.
+Tue Aug 11 18:30:39 2020 Komputer spudlowal strzelajac w pole x= 10 y= 6.
+Tue Aug 11 18:30:46 2020 Gracz spudlowal strzelajac w pole x= 1 y= 5.
+Tue Aug 11 18:30:53 2020 Komputer trafil w statek na polu x= 6 y= 2.
+Tue Aug 11 18:30:59 2020 Komputer spudlowal strzelajac w pole x= 6 y= 3.
+Tue Aug 11 18:31:08 2020 Gracz spudlowal strzelajac w pole x= 1 y= 2.
+Tue Aug 11 18:31:14 2020 Komputer spudlowal strzelajac w pole x= 7 y= 2.
+Tue Aug 11 18:31:21 2020 Gracz spudlowal strzelajac w pole x= 2 y= 1.
+Tue Aug 11 18:31:27 2020 Komputer trafil w statek na polu x= 5 y= 2 - statek zatopiony.
+Tue Aug 11 18:31:34 2020 Komputer spudlowal strzelajac w pole x= 7 y= 4.
+Tue Aug 11 18:31:39 2020 Gracz trafil w statek na polu x= 4 y= 1 - statek zatopiony.
+Tue Aug 11 18:31:44 2020 Gracz spudlowal strzelajac w pole x= 6 y= 1.
+Tue Aug 11 18:31:50 2020 Komputer spudlowal strzelajac w pole x= 2 y= 9.
+Tue Aug 11 18:31:56 2020 Gracz spudlowal strzelajac w pole x= 7 y= 1.
+Tue Aug 11 18:32:02 2020 Komputer spudlowal strzelajac w pole x= 3 y= 1.
+Tue Aug 11 18:32:13 2020 Gracz trafil w statek na polu x= 8 y= 1 - statek zatopiony.
+Tue Aug 11 18:32:16 2020 Gracz wygral.
+Tue Aug 11 18:32:16 2020 Gra w trybie Gracz na Komputer zostala zakonczona.
