@@ -1,0 +1,14 @@
+Kuc Judyta
+Jezyk polski 5
+Jezyk angielski 5
+Jezyk niemiecki 5
+Historia 5
+Matematyka 6
+Fizyka 5
+Informatyka 5
+Biologia 5
+Chemia 5
+Wychowanie fizyczne 5
+Srednia ocen: 5.1
+Pasek: TAK
+PROMOCJA: TAK

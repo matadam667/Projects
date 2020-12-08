@@ -1,0 +1,14 @@
+Adamiec Maciej
+Jezyk polski 3
+Jezyk angielski 3
+Jezyk niemiecki 3
+Historia 2
+Matematyka 2
+Fizyka 3
+Informatyka 2
+Biologia 2
+Chemia 2
+Wychowanie fizyczne 2
+Srednia ocen: 2.4
+Pasek: NIE
+PROMOCJA: TAK

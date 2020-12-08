@@ -1,0 +1,297 @@
+
+Imie i nazwisko: Mateusz Adamczyk
+Numer kontaktowy: 601730218 Data urodzenia: 19 2 2000
+Miasto: Bytom Ulica: Legionow Numer domu: 39 Numer mieszkania: 4
+Plec: M Pesel: 00221902132
+Jezyk polski
+Wypracowania: 
+5+ 5 
+Odpowiedzi ustne: 
+2 
+Kartkowki: 
+4 
+Jezyk angielski
+Wypracowania: 
+6 
+Odpowiedzi ustne: 
+4+ 
+Kartkowki: 
+5+ 
+Jezyk niemiecki
+Wypracowania: 
+2+ 
+Odpowiedzi ustne: 
+1 
+Kartkowki: 
+3 
+Historia
+Wypracowania: 
+2+ 
+Odpowiedzi ustne: 
+3 
+Kartkowki: 
+4 
+Matematyka
+Odpowiedzi ustne: 
+5 4 2 
+Sprawdziany: 
+5 3 
+Kartkowki: 
+4 3 2 
+Fizyka
+Odpowiedzi ustne: 
+5 3 2 
+Sprawdziany: 
+4 4 3 
+Kartkowki: 
+6 4 2 
+Informatyka
+Odpowiedzi ustne: 
+4 4 3 2 
+Sprawdziany: 
+4 3 
+Kartkowki: 
+5 2 
+Biologia
+Odpowiedzi ustne: 
+4+ 3 
+Sprawdziany: 
+5 
+Kartkowki: 
+3 
+Chemia
+Odpowiedzi ustne: 
+5 3 
+Sprawdziany: 
+5 
+Kartkowki: 
+5+ 
+Wychowanie fizyczne
+Oceny z fakultetu: 
+3 
+Oceny z lekkoatletyki: 
+3+ 3 
+Oceny z gimnastyki: 
+3 
+Imie i nazwisko: Judyta Kuc
+Numer kontaktowy: 123456789 Data urodzenia: 12 10 1999
+Miasto: Gliwice Ulica: Akademicka Numer domu: 30 Numer mieszkania: 2
+Plec: K Pesel: 99101215381
+Jezyk polski
+Wypracowania: 
+6 6 5 
+Odpowiedzi ustne: 
+5 5 5 
+Kartkowki: 
+6 5 5 
+Jezyk angielski
+Wypracowania: 
+6 5 5 
+Odpowiedzi ustne: 
+6 5 4 
+Kartkowki: 
+5 5 5 
+Jezyk niemiecki
+Wypracowania: 
+6 5 4 
+Odpowiedzi ustne: 
+5 5 4 
+Kartkowki: 
+6 6 5 
+Historia
+Wypracowania: 
+6 6 6 
+Odpowiedzi ustne: 
+5 5 4+ 
+Kartkowki: 
+6 5 5- 
+Matematyka
+Odpowiedzi ustne: 
+6 5 5 
+Sprawdziany: 
+6 6 5 
+Kartkowki: 
+6 6 5 
+Fizyka
+Odpowiedzi ustne: 
+5 5 4 
+Sprawdziany: 
+5 5 5 
+Kartkowki: 
+6 5 5 
+Informatyka
+Odpowiedzi ustne: 
+6 5 5 
+Sprawdziany: 
+5 5 4 
+Kartkowki: 
+6 6 5 
+Biologia
+Odpowiedzi ustne: 
+5 5 5 
+Sprawdziany: 
+6 6 5 
+Kartkowki: 
+6 5 4 
+Chemia
+Odpowiedzi ustne: 
+6 6 5 
+Sprawdziany: 
+5 5 5 
+Kartkowki: 
+6 5 5 
+Wychowanie fizyczne
+Oceny z fakultetu: 
+5 5 5 
+Oceny z lekkoatletyki: 
+6 5 5 
+Oceny z gimnastyki: 
+6 6 5 
+Imie i nazwisko: Maciej Adamiec
+Numer kontaktowy: 987654321 Data urodzenia: 2 12 1999
+Miasto: Gliwice Ulica: Bony Numer domu: 4 Numer mieszkania: 3
+Plec: K Pesel: 99120217386
+Jezyk polski
+Wypracowania: 
+3 3 2 
+Odpowiedzi ustne: 
+5 4 4 
+Kartkowki: 
+3 3 2 
+Jezyk angielski
+Wypracowania: 
+5 3 3 
+Odpowiedzi ustne: 
+3 2 1 
+Kartkowki: 
+5 4 2 
+Jezyk niemiecki
+Wypracowania: 
+3 2 2 
+Odpowiedzi ustne: 
+3 2 1 
+Kartkowki: 
+6 4 3 
+Historia
+Wypracowania: 
+3 2 2 
+Odpowiedzi ustne: 
+4 2 1 
+Kartkowki: 
+4 2 2 
+Matematyka
+Odpowiedzi ustne: 
+3 2 2 
+Sprawdziany: 
+2 1 1 
+Kartkowki: 
+4 3 2 
+Fizyka
+Odpowiedzi ustne: 
+3 2 2 
+Sprawdziany: 
+4 4 2 
+Kartkowki: 
+3 2 1 
+Informatyka
+Odpowiedzi ustne: 
+4 2 1 
+Sprawdziany: 
+3 3 1 
+Kartkowki: 
+4 3 2 
+Biologia
+Odpowiedzi ustne: 
+4 1 1 
+Sprawdziany: 
+3 2 1 
+Kartkowki: 
+3 3 2 
+Chemia
+Odpowiedzi ustne: 
+2 2 1 
+Sprawdziany: 
+3 2 2 
+Kartkowki: 
+3 2 1 
+Wychowanie fizyczne
+Oceny z fakultetu: 
+3 2 2 
+Oceny z lekkoatletyki: 
+4 2 2 
+Oceny z gimnastyki: 
+3 2 2 
+Imie i nazwisko: Piotr Kit
+Numer kontaktowy: 432563872 Data urodzenia: 12 3 2000
+Miasto: Gliwice Ulica: Bytomska Numer domu: 82 Numer mieszkania: 4
+Plec: M Pesel: 00231237336
+Jezyk polski
+Wypracowania: 
+4 3 3 
+Odpowiedzi ustne: 
+3 2 1 
+Kartkowki: 
+5 3 2 
+Jezyk angielski
+Wypracowania: 
+4 3 2 
+Odpowiedzi ustne: 
+5 3 2 
+Kartkowki: 
+5 2 2 
+Jezyk niemiecki
+Wypracowania: 
+3 2 2 
+Odpowiedzi ustne: 
+5 3 3 
+Kartkowki: 
+5 4 2 
+Historia
+Wypracowania: 
+5 3 2 
+Odpowiedzi ustne: 
+5 3 2 
+Kartkowki: 
+3 2 1 
+Matematyka
+Odpowiedzi ustne: 
+3 2 1 
+Sprawdziany: 
+3 2 1 
+Kartkowki: 
+5 3 2 
+Fizyka
+Odpowiedzi ustne: 
+5 2 1 
+Sprawdziany: 
+3 2 1 
+Kartkowki: 
+4 2 1 
+Informatyka
+Odpowiedzi ustne: 
+3 2 1 
+Sprawdziany: 
+5 3 2 
+Kartkowki: 
+5 3 2 
+Biologia
+Odpowiedzi ustne: 
+5 2 2 
+Sprawdziany: 
+5 2 1 
+Kartkowki: 
+5 2 1 
+Chemia
+Odpowiedzi ustne: 
+3 2 1 
+Sprawdziany: 
+4 3 2 
+Kartkowki: 
+5 3 2 
+Wychowanie fizyczne
+Oceny z fakultetu: 
+5 2 1 
+Oceny z lekkoatletyki: 
+4 3 2 
+Oceny z gimnastyki: 
+5 3 2 

@@ -1,0 +1,14 @@
+Kit Piotr
+Jezyk polski 3
+Jezyk angielski 3
+Jezyk niemiecki 3
+Historia 3
+Matematyka 2
+Fizyka 2
+Informatyka 3
+Biologia 3
+Chemia 3
+Wychowanie fizyczne 3
+Srednia ocen: 2.8
+Pasek: NIE
+PROMOCJA: TAK

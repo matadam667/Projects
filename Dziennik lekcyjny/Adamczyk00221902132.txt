@@ -1,0 +1,14 @@
+Adamczyk Mateusz
+Jezyk polski 4
+Jezyk angielski 5
+Jezyk niemiecki 2
+Historia 3
+Matematyka 4
+Fizyka 4
+Informatyka 3
+Biologia 4
+Chemia 4
+Wychowanie fizyczne 3
+Srednia ocen: 3.6
+Pasek: NIE
+PROMOCJA: TAK
